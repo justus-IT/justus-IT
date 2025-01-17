@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Justus Muia Viti
-- 👀 I’m interested in website designing and management 
+- 👀 I’m interested in website designing and management
+- Have studied and aquired certificates in networking and data science courses offered in CISCO
 - 🌱 Am an IT diploma graduate and  I’m currently learning computer science (IT in degree level
 - 📫 You can reache through muiajustus220@gmail.com
 -  
